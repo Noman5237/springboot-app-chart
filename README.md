@@ -1,3 +1,5 @@
+# Deprecated and will be removed with a fork of https://github.com/Noman5237/onechart
+
 # Spring Boot App Helm Chart
 
 This repository contains a Helm chart template for deploying a Spring Boot application. Below is an overview of the key components, including Deployment, StatefulSet, Service, and configuration settings.
